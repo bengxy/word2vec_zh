@@ -3,17 +3,17 @@
 
 选用历年《矛盾文学奖作品》为语料库，训练word vector
 
-详细博客：[word2vec在中文数据集上的实验]()
+详细博客：[word2vec在中文数据集上的实验](http://bengxy.com/2016/09/16/word2vec_zh/#more)
 
 ## 项目说明  
 ### 数据集  
 
 * 历年矛盾文学奖作品
 * 数据下载地址 **(encoding = utf-8)**
-	* [数据堂]() **(未处理 encoding = gb18030)**
-	* [百度盘]() 
-	* [dropbox]()
-	* [个人服务器]()
+	* [百度盘_raw](http://pan.baidu.com/s/1mi10nDA) **(未处理 encoding = gb18030)**
+	* [百度盘](http://pan.baidu.com/s/1hsBHKPY) 
+	* [dropbox_raw](https://www.dropbox.com/s/ly77h4e54tn0rev/raw_data.zip?dl=0)
+	* [dropbox](https://www.dropbox.com/s/iaov5edg7ua866u/data.zip?dl=0)
 * 数据存放说明（参考每个目录下的readme）
 	* raw_data （**数据堂**的源数据存放位置；[可选] 文本编码：gb18030） 
 	* data （其他来源的数据存放位置； 文本编码：utf-8）
@@ -47,7 +47,7 @@
 
 ## 参考
 
-具体说明参考： [word2vec在中文数据集上的实验]()
+具体说明参考： [word2vec在中文数据集上的实验](http://bengxy.com/2016/09/16/word2vec_zh/#more)
 
 
 
