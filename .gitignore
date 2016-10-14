@@ -1,0 +1,7 @@
+*.txt
+*.model
+data/
+*.zip
+raw_data/
+cut_data/
+
