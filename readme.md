@@ -3,7 +3,7 @@
 
 选用历年《矛盾文学奖作品》为语料库，训练word vector
 
-详细博客：[word2vec在中文数据集上的实验](http://bengxy.com/2016/09/16/word2vec_zh/#more)
+详细博客：[word2vec在中文数据集上的实验](http://bengxy.com/blog/2016/09/16/word2vec_zh/#more)
 
 ## 项目说明  
 ### 数据集  
@@ -47,7 +47,7 @@
 
 ## 参考
 
-具体说明参考： [word2vec在中文数据集上的实验](http://bengxy.com/2016/09/16/word2vec_zh/#more)
+具体说明参考： [word2vec在中文数据集上的实验](http://bengxy.com/blog/2016/09/16/word2vec_zh/#more)
 
 
 
